@@ -10,7 +10,7 @@
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
+## Estudiante: Alan Rimini
 
 Descripción
 
